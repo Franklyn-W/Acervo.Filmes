@@ -1,0 +1,15 @@
+C:\workspace\Acervo.Filmes\Acervo.Filmes\bin\Debug\net6.0\Acervo.Filmes.exe
+C:\workspace\Acervo.Filmes\Acervo.Filmes\bin\Debug\net6.0\Acervo.Filmes.deps.json
+C:\workspace\Acervo.Filmes\Acervo.Filmes\bin\Debug\net6.0\Acervo.Filmes.runtimeconfig.json
+C:\workspace\Acervo.Filmes\Acervo.Filmes\bin\Debug\net6.0\Acervo.Filmes.dll
+C:\workspace\Acervo.Filmes\Acervo.Filmes\bin\Debug\net6.0\ref\Acervo.Filmes.dll
+C:\workspace\Acervo.Filmes\Acervo.Filmes\bin\Debug\net6.0\Acervo.Filmes.pdb
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.csproj.AssemblyReference.cache
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.AssemblyInfoInputs.cache
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.AssemblyInfo.cs
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.csproj.CoreCompileInputs.cache
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.dll
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\ref\Acervo.Filmes.dll
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.pdb
+C:\workspace\Acervo.Filmes\Acervo.Filmes\obj\Debug\net6.0\Acervo.Filmes.genruntimeconfig.cache
