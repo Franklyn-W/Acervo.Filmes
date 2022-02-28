@@ -2,4 +2,4 @@
 
 Projeto desenvolvido durante bootcamp LocalizaLabs#2 na plataforma DIO.
 
-Sistema criado utilizando linguagem c#
+Sistema criado utilizando linguagem .NET C#
